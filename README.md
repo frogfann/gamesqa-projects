@@ -5,8 +5,8 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| [Project 1](https://cmcqa.blogspot.com/p/projects) | Created a Test Plan and Test Cases for a mobile app. | Trello, MSExcel, Google Docs |
-| [Project 2](https://cmcqa.blogspot.com/p/projects) | "Bug-Blog" is a collection of bugs I've found and reported from various games, written in a standard format. |  Adhoc Testing, Exploratory Testing |
+| [Project 1](https://cmcqa.blogspot.com/p/software-testing-portfolio.html) | Created a Test Plan and Test Cases for a mobile app. | Trello, MSExcel, Google Docs |
+| [Project 2](https://cmcqa.blogspot.com/p/software-testing-portfolio.html) | "Bug-Blog" is a collection of bugs I've found and reported from various games, written in a standard format. |  Adhoc Testing, Exploratory Testing |
 |   |  |  |
 
 ## Getting Started
